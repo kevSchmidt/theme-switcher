@@ -1,2 +1,3 @@
-# Fireship - Theme Switcher
+# Fireship 
+## Theme Switcher
 ![](./preview.png)
